@@ -7,3 +7,4 @@ This is the work flow of the 'Chart Interpret AI Agent'.
 Output Demo:
 <img width="1298" alt="image" src="https://github.com/user-attachments/assets/6d31945f-d3e9-434e-8d93-e2da7d607fd7" />
 
+[Project-Pitch-Charts-Interpreter.pdf](https://github.com/user-attachments/files/19439380/Project-Pitch-Charts-Interpreter.pdf)
